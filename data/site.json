@@ -1,0 +1,56 @@
+{
+  "firma": "systemhaus r.tetzlaff",
+  "inhaber": "Inhaber Ronny Tetzlaff [Dipl. Informatiker TU]",
+  "claim": ["consulting", "softwarearchitekturen", "coaching"],
+  "url": "https://www.ronnytetzlaff.de",
+  "anschrift": ["systemhaus r.tetzlaff", "hoher pfad 15/1", "71640 ludwigsburg"],
+  "telefon": [
+    {"label": "mobil", "anzeige": "+49 174 3095053", "tel": "+491743095053"},
+    {"label": "festnetz", "anzeige": "+49 7141 6431157", "tel": "+4971416431157"}
+  ],
+  "email": "r.tetzlaff@online.de",
+  "profil": [
+    {"gruppe": "person", "eintraege": [
+      ["Name", "Ronny Tetzlaff"],
+      ["Jahrgang", "1966"],
+      ["Nationalität", "Deutsch"],
+      ["Ausbildung", "Dipl.-Informatiker (TU)\nFacharbeiter für Datenverarbeitung"],
+      ["Tätig als", "Teilprojektleiter, Architekt, Systemdesigner, Entwickler"],
+      ["Sprachen", "Englisch"],
+      ["Studienschwerpunkt", "Systemanalyse und -design\nNeuroinformatik, künstliche Intelligenz"],
+      ["Aktuelle Interessen", "Nutzen von Pattern im SW-Entwicklungsprozess und im J2EE-Umfeld (Design-Pattern)"]
+    ]},
+    {"gruppe": "programmiersprachen", "skala": [
+      ["Java", "sehr gut", "seit 1998"],
+      ["Smalltalk", "sehr gut", "ca. 4 Jahre Praxis"],
+      ["C/C++", "sehr gut", "ca. 4 Jahre Praxis"],
+      ["SQL", "sehr gut", ""]
+    ]},
+    {"gruppe": "systeme & werkzeuge", "eintraege": [
+      ["Hardware", "Intel-PC"],
+      ["Betriebssysteme", "MS-DOS, MS-Windows in allen Varianten\nSun Solaris, Linux-Systeme, Mac OS X\nIBM OS/2, Palm OS"],
+      ["Entwicklungssysteme Java", "IBM WebSphere Application Developer (WSAD) 4.x, 5.x\nIBM WebSphere Enterprise Developer (WSED) 4.x, 5.x\nIBM VisualAge für Java, Eclipse, Borland JBuilder, VisualCafé, MS Visual J++"],
+      ["Entwicklungssysteme C/C++", "VisualAge für C++, IBM C-Set/2, MS Visual Studio\nBorland C/C++, Microsoft C"],
+      ["Modellierung", "Together/J, Rational"],
+      ["Sourcecode-Verwaltung", "PVCS, SourceSafe, CVS, MS Visual SourceSafe"],
+      ["Entwicklertools", "BoundsChecker, VisualTest, JUnit und andere"],
+      ["Standardsoftware", "MS Office, MS Project 98, MS Visio"]
+    ]},
+    {"gruppe": "bibliotheken & frameworks", "eintraege": [
+      ["Java", "JFC / Swing, seit 1998"],
+      ["Web-Framework", "Cocoon, Tiles, Struts, Java Server Faces (JSF), XForms, XML, XSL, XSLT"],
+      ["EAI-Schicht", "JMS, EJB, DAO, JDO, LDAP, SSO"],
+      ["C++", "IBM Open Class Library, MFC, STL, OWL, StarView, Frocs"]
+    ]},
+    {"gruppe": "datenbanken, middleware & server", "eintraege": [
+      ["Datenbanksysteme", "DB2/2, MS SQL Server, Gupta, Oracle, Informix, Sybase SQL Server, mySQL, InterBase"],
+      ["Middleware EJB", "IBM WebSphere 3.x, 4.x, 5.x, JBoss 2.x, 3.x"],
+      ["Middleware CORBA", "Visigenic VisiBroker 3.x, 4.x; Sun ORB"],
+      ["Web-/App.-Server", "Tomcat 3.x, 4.x, 5.x, JBoss 2.x, 3.x\nBEA Application Server 6.x, 7.x\nIBM WebSphere Application Server 4.x, 5.x\nIBM WebSphere Portal Server 4.0.2, 4.0.4, 4.2, 5.0\nIBM Directory Server, IBM SecureWay Server"]
+    ]},
+    {"gruppe": "schulungen", "eintraege": [
+      ["ValueAcademy", "Projektmanagement\nModerationstechniken\nGesprächsführung und Coaching\nZeitmanagement\nVeränderungsmanagement"],
+      ["Technik", "UML-Modellierung\nJava und Advanced Java Programming\nIBM VisualAge\nEJB in WebSphere-Umgebungen"]
+    ]}
+  ]
+}
